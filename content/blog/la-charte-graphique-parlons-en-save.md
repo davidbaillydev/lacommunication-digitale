@@ -19,7 +19,7 @@ Comment obtenir **un logo efficace** ? Par qui faire réaliser son logo ? De quo
 
 ***
 
-Le logo de votre entreprise ou de votre institution est **prévu pour durer**. N’optez donc pas pour la **tendance graphique**du moment qui sera passée de mode d’ici un mois. Un logo doit être pensé pour avoir une durée de vie d’**une dizaine d’années**. La feuille de route pour sa création est sans doute l’étape la plus longue à réaliser. Celle-ci doit être abordée dans [le cahier des charges de votre site web](http://blog.lounce.com/limportance-du-cahier-des-charges-pour-un-site-internet), au niveau de la création ou refonte de la **charte graphique**.
+Le logo de votre entreprise ou de votre institution est **prévu pour durer**. N’optez donc pas pour la **tendance graphique**du moment qui sera passée de mode d’ici un mois. Un logo doit être pensé pour avoir une durée de vie d’**une dizaine d’années**. La feuille de route pour sa création est sans doute l’étape la plus longue à réaliser. Celle-ci doit être abordée dans le cahier des charges de votre site web, au niveau de la création ou refonte de la **charte graphique**.
 
 Ce logo doit pouvoir se **démarquer des autres** en **attirant l’attention** et surtout être utilisé sur tous vos supports de communication et ceci dans n’importe quelle taille.
 
