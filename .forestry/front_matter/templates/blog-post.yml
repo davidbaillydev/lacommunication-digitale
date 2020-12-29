@@ -14,7 +14,6 @@ fields:
     time_format: h:mm
     export_format: DD/MM/YYYY h:mm
   default: 29/12/2020 6:46
-  # default: '2020-12-29T18:29:02+01:00'
 - type: file
   name: featureImage
   label: featureImage
