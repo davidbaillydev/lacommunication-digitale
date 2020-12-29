@@ -31,7 +31,7 @@ N’hésitez pas avoir **de nombreux échanges avec le graphiste** responsable d
 
 ***
 
-Si une personne dispose de talent en graphisme vous pouvez faire créer votre logo d’entreprise en interne. Il existe également des sites spécialisés promettant la réalisation de logos pour quelques dizaines d’euros en choisissant le vôtre parmi une vingtaine de modèles regroupés en thématique. Cette solution n’est pas à retenir dans le sens où le logo retenu peut étrangement ressembler à celui d’un de vos concurrents.
+![](/uploads/graphiste_creation_logo.jpeg)Si une personne dispose de talent en graphisme vous pouvez faire créer votre logo d’entreprise en interne. Il existe également des sites spécialisés promettant la réalisation de logos pour quelques dizaines d’euros en choisissant le vôtre parmi une vingtaine de modèles regroupés en thématique. Cette solution n’est pas à retenir dans le sens où le logo retenu peut étrangement ressembler à celui d’un de vos concurrents.
 
 Plus sérieusement, il est plutôt conseillé de confier la création d’un logo en faisant appel à **un professionnel** du secteur, sous la forme d’une **agence de communication** ou d’une **agence web**. Ces agences disposent des compétences nécessaires pour ce type de prestations. Le prix de celles-ci peut varier grandement selon **la notoriété de votre entreprise** et **la réputation de l’agence** engagée.
 
