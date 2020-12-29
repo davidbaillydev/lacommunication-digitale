@@ -12,6 +12,7 @@ fields:
     date_format: DD/MM/YYYY
     display_utc: false
     time_format: h:mm
+    export_format: DD/MM/YYYY h:mm
   default: '2020-12-29T18:29:02+01:00'
 - type: file
   name: featureImage
