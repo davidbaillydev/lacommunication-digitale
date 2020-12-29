@@ -2,7 +2,7 @@
 date = 2020-12-28T23:00:00Z
 featureImage = "/uploads/logodesign.jpg"
 postImage = "/uploads/creation_logo.jpeg"
-title = "La Charte Graphique ? Parlons En ! Save"
+title = "La Charte Graphique ? Parlons En ! "
 
 +++
 # Comment gérer la création d’un logo pour votre entreprise ?
