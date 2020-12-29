@@ -1,5 +1,6 @@
 +++
 date = 2020-12-28T23:00:00Z
+draft = true
 featureImage = "/uploads/logodesign.jpg"
 postImage = "/uploads/creation_logo.jpeg"
 title = "La Charte Graphique ? Parlons En ! "
